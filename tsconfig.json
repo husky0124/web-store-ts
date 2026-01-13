@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "declaration": true, // 开启声明文件生成
+    "declarationDir": "dist", // 开启声明文件生成
+  }
+}
